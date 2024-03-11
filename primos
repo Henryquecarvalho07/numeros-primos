@@ -12,10 +12,11 @@ Turma: 3°A
 <title>Verificador de Números Primos</title>
 </head>
 <body>    
-<h2>Verificador de nu</h2>
+<h2>Verificador de numeros primos</h2>
+<labe> Digite um numero natural abaixo
     <input type="number" id="numero">  
   <button onclick="verificarPrimo()">Verificar</button>
-    <br><br>    
+    <br><br>    </labe>
 <canvas id="resultado" width="800" height="800"></canvas>
 
     <script> 
